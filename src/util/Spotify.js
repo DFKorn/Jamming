@@ -1,5 +1,5 @@
 const clientId = 'acb0483335c64a1fab4a1b267ee1accf';
-const redirectUri = 'http://localhost:3000/'
+const redirectUri = 'https://amusing-jamm.surge.sh/'
 
 let accessToken;
 
