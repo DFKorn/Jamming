@@ -6,4 +6,4 @@ React web application that allows users to search the Spotify library, create a 
 * React
 * Spotify API
 
-### [Live](https://amusing-jamm.surge.sh/)
+### Live - [Jamming](https://amusing-jamm.surge.sh/)
