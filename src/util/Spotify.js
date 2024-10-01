@@ -1,5 +1,5 @@
 const clientId = 'acb0483335c64a1fab4a1b267ee1accf';
-const redirectUri = 'https://amusing-jamm.netlify.app/'
+const redirectUri = 'amusing-jamm.netlify.app'
 
 let accessToken;
 
